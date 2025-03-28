@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name" : "Intel Core i9-11900k 3.5GHz 8-Core Processor",
+        "description" : "The intel core i9-119000k is a high performance processor with 8 cores and 16 threads.",
+        "price": 499.99
+    },
+    {
+        "id":2,
+        "name" : "AMD Ryzen 9 5950X 3.4GHz 16-Core processor",
+        "description" : "The intel core i9-119000k is a high performance processor with 8 cores and 16 threads.",
+        "price": 749.99
+    },
+    {
+        "id":3,
+        "name" : "Corsair Vengeance LPX 32GB (2 X 16GB) DDR4-3200",
+        "description" : "The intel core i9-119000k is a high performance processor with 8 cores and 16 threads.",
+        "price": 149.99
+    },
+    {
+        "id":4,
+        "name" : "Crucial Ballistix 64HB (4 X 16GB) DDR4-3600 Memory",
+        "description" : "The intel core i9-119000k is a high performance processor with 8 cores and 16 threads.",
+        "price": 299.99
+    },
+    {
+        "id":5,
+        "name" : "NVIDIA GeForce RTX 3080 10GB GDDR6X",
+        "description" : "The intel core i9-119000k is a high performance processor with 8 cores and 16 threads.",
+        "price": 999.999
+    }
+]
